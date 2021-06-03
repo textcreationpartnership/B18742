@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case upon the writ of error between Richard Brown and Ayliff Waite, touching the manor and lands of Dauntsey, in the county of Wilts, late of Sir John Danvers, Knt. appointed by order to be heard at the Lords bar, on Monday the 23d of Nov. 1691.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18742</idno><idno type="EEBO-CITATION">99885935</idno>
+  <idno type="VID">188538</idno>
+  <idno type="EEBO-PROQUEST">2240898371</idno>
+  
+            <idno type="STC">Wing C1208</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.16[37]</idno>
+            <idno type="STC">ESTC R225208</idno>
+            <idno type="PROQUEST">ocm99885935</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885935e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18742)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188538)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:1[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case upon the writ of error between Richard Brown and Ayliff Waite, touching the manor and lands of Dauntsey, in the county of Wilts, late of Sir John Danvers, Knt. appointed by order to be heard at the Lords bar, on Monday the 23d of Nov. 1691.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Land titles --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:188538:1"/>
+            <head>THE CASE UPON The Writ of ERROR BETWEEN <hi>RICHARD BROWN</hi> and <hi>AYLIFF WAITE,</hi> touching the Manor and Lands of <hi>Dauntsey,</hi> in the County of <hi>WILTS,</hi> late of Sir <hi>John Danvers,</hi> Knt. appointed by Order to be heard at the Lords Bar, on <hi>Monday</hi> the 23d of <hi>Nov.</hi> 1691.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>ENRY</hi> Earl of <hi>Danby</hi> being seized in Fee of the Premisses, settles the same on himself for Life,<note place="margin">4 <hi>Caroli</hi> I. <hi>Ann.</hi> 1629.</note> the Remainder to the said Sir <hi>John Danvers</hi> his Brother for his Life, the Remainder to <hi>Eli<g ref="char:EOLhyphen"/>zabeth</hi> his Wife for her Life, the Remainder to the Heirs of the Body of the said Sir <hi>John Dan<g ref="char:EOLhyphen"/>vers,</hi> the Remainder to the right Heirs of himself, the said Earl of <hi>Danby.</hi>
+            </p>
+            <p>The said <hi>Elizabeth,</hi> and the said Earl died, and the said Sir <hi>John Danvers</hi> was Brother and Heir of the said Earl, and thereby at, and before the 25th of <hi>March,</hi> 1646. was seized of the Premisses in Fee-Taile.<note place="margin">
+                  <hi>May</hi> 5. 1647. <hi>April</hi> 17. 1655.</note> The Reversion thereupon expectant to him in Fee.</p>
+            <p>Sir <hi>John Danvers</hi> by Fine and Deed limits the Premisses to the use of himself, and the Heirs of his Body; and for want of such Issue, to the use of his own Right Heirs.</p>
+            <p>Sir <hi>John Danvers</hi> died, leaving Issue <hi>John Danvers</hi> his Son and Heir, who is Lessor of the Plaintiff.<note place="margin">12 <hi>Caroli</hi> II. <hi>cap.</hi> 11. <hi>Ann.</hi> 1660. 13 <hi>Car.</hi> II. <hi>cap.</hi> 15. <hi>Ann.</hi> 1661.</note>
+            </p>
+            <p>The said Sir <hi>John Danvers</hi> having been notoriously active <hi>in the Treason of Murthering King</hi> CHARLES the First; and being dead when the <hi>Act of Indemnity</hi> passed, his Estate was excepted out of the said Act.</p>
+            <p>By the Act of Parliament <hi>for Pains and Penalties,</hi> therein reciting that Sir <hi>John Danvers,</hi> and others, whilst they lived, were notoriously known to have been wicked and active Instruments in the prosecution and compassing <hi>of that horrid and exe<g ref="char:EOLhyphen"/>crable Treason, the Murther of our late Sovereign Lord King</hi> CHARLES <hi>the First <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver blessed memory;</hi> and for that no Act had passed then for inflicting of due Pains, Penalties and Forfeitures upon the Person <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Estates of the Offenders afore<g ref="char:EOLhyphen"/>said, It is enacted, That all and every the Mannors, Messuages, Lands, Tenements, Rents, R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>versions, Remainders, Possessions, Rights, Conditions, Interests, Offices, Fees, Annuities, and all other the Hereditaments, Leases for Years, Chattels real, and other things of what nature soever they be of them the said Sir <hi>John Danvers,</hi> &amp;c. which they, or any in trust for them, had the 25th day of <hi>March,</hi> 1646. or afterwards, shall stand, and be forfeited to His MAJESTY, His Heirs, and Successors, and shall be deemed, vested and adjudged to be in the actual and real possession of His MAJESTY, without any Office or In<g ref="char:EOLhyphen"/>quisition thereof thereafter to be taken or found.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pas.</hi> 1675. 1676.</note>The Lands in question have ever since been enjoyed by, and under the Crown.</p>
+            <p>This Action of Ejectment was brought in the <hi>King's-Bench,</hi> in <hi>Easter</hi> Term, 1675. and Judgment was given against the Plaintiff,<note place="margin">
+                  <hi>An.</hi> 1689</note> by the unanimous Opinion of the Four Judges there, in <hi>Michaelmas</hi> Term, 1676.</p>
+            <p>A Writ of Error having been brought in the <hi>Exchequer Chamber,</hi> the Judgment was affirmed by the Opinion of all the Judges of the <hi>Common Pleas,</hi> and Barons of the <hi>Exchequer</hi> except two, <hi>viz.</hi> Mr. Baron <hi>Lechmer,</hi> and Mr. Baron <hi>Turton.</hi>
+            </p>
+            <p>The question of this Case is,</p>
+            <p>If Sir <hi>John Danvers,</hi> who in 1646. was seized of the Premises in Tail, with Remainder to his own right Heirs, were seized of such an Estate as is forfeited, and given to the Crown by the said Act of Pains and Penalties.</p>
+            <p>It was resolved by both the said Courts, That all the Estate in the said Lands was forfeited, and given to the Crown by that Act for these Reasons:
+<list>
+                  <item>I. The Act takes notice of Sir <hi>John Danvers</hi>'s Crime, which was <hi>High-Treason,</hi> and intended to inflict the same for<g ref="char:EOLhyphen"/>feiture as to his Estate, he having, by Death, avoided being Attainted, as would have been, had he been in Life, and Attainted; and he is reputed by the Act as a person Attaint.</item>
+                  <item>II. The words of the Act are as comprehensive as may be, and extend to forfeit all Lands, and all Estates in them, that might be any ways forfeited by the comprehensive words of Rights, Interests, and Hereditaments, which must ex<g ref="char:EOLhyphen"/>tend to the Inheritances in the Lands, or to nothing, the Offender being dead.</item>
+                  <item>III. Estates Tail, since they are become Alienable by Common Recoveries and Fines, and thereby the perpetuity cre<g ref="char:EOLhyphen"/>ated by the Statute of <hi>Westminster,</hi> 2. <hi>de Donis Conditionalibus,</hi> liable to be broken, are forfeitable; a Forfeiture being in nature of Alienation, by the general words of an Act of Parliament, as appears from the Statute of 26 <hi>H.</hi> 8. by which Act Estates Tail are forfeitable for Treason under the general words of Estates of Inheritance; and by the same Reason, the words, Rights, Interests and Hereditaments, in the Act of <hi>Pains</hi> and <hi>Penalties,</hi> which is ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eed to extend to carry an Estate in Fee-simple, shall as well extend to an Estate Tail; and it may be as well denied that an Estate in Fee-simple, as in Fee-Tail is forfeited by this Act, the words being no more expressive of one Estate than the other.</item>
+                  <item>IV. The Act intended the Offenders Estate should not be enjoyed by their Children; for in the general saving, there is exception of the Child or Children of the Offender.</item>
+               </list>
+            </p>
+            <p n="2">2. There was another Point argued by Council in the <hi>King</hi>'s <hi>Bench,</hi> and <hi>Exchequer-Chamber, viz.</hi> If by the Fine Levied by Sir <hi>John Danvers</hi> in 1647. there were not such an Alteration made of the Estate as should subject the Lands in question, to the Forfeiture by the Act, though the old Estate Tail should not be forfeitable by it: But the Case was adjudged in the other Point, and little notice taken of this by the Judges, because the first Point was sufficient.</p>
+            <pb facs="tcp:188538:2"/>
+            <pb facs="tcp:188538:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
